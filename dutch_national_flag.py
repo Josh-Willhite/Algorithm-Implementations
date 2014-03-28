@@ -1,3 +1,9 @@
+"""
+[Copyright (c) 2014 Josh Willhite]
+Repository: https://github.com/Josh-Willhite/Algorithm-Implementation Email: jwillhite@gmail.com
+
+This program is released under the MIT license. See COPYING for specifics.
+"""
 import random
 
 
